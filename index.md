@@ -8,8 +8,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
+[RAMPup - Robotic Automation Modules for Production ](/ramp_up_project)
+<img src="images/logo_rampup.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
