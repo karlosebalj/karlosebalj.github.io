@@ -7,15 +7,12 @@ RAMPup aims to improve European SME production competitiveness by effectively de
 
 ### 1. Force based Insertion module
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=4QvqkgiVI1A">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4QvqkgiVI1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
 
 ### 2. Task switching: Insertion and pressing at
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=J0q21_40RTQ">
-</iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0q21_40RTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
 
 ### 3. [Project results](https://rampupproject.eu/media/1076/modular-robot-cell-for-multiple-preassembly-processes-in-the-production-of-roof-windows-and-roller-shutters_draft.pdf)
 
