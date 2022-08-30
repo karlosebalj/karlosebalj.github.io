@@ -2,19 +2,19 @@
 
 ---
 
-### Category Name 1 
+### **Latest Projects**
 
-[Controlling a mobile robot using a Robot Operating System (ROS)](/sample_page)
+[Controlling a mobile robot using a Robot Operating System (ROS)](/mobile_robot)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
 [RAMPup - Robotic Automation Modules for Production ](/ramp_up_project)
-<img src="images/logo_rampup.jpg?raw=true"/>
+<img src="images/ramp_up_logo.png?raw=true"/>
 
 ---
-[User interface for robot control using programmable logic controller](/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[User interface for robot control using programmable logic controller](/UI_for_robot_control)
+<img src="images/UI_PLC_robot.png?raw=true"/>
 
 ---
 
