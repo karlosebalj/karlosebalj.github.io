@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Controlling a mobile robot using a Robot Operating System (ROS)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -13,7 +13,7 @@
 <img src="images/logo_rampup.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[User interface for robot control using programmable logic controller](/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -32,5 +32,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+Remove above link if you don't want to attibute -->

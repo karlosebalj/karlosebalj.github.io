@@ -10,13 +10,6 @@ RAMPup aims to improve European SME production competitiveness by effectively de
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
 ### 2. Assess assumptions on which statistical inference will be based
 <iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=J0q21_40RTQ">
@@ -24,6 +17,9 @@ src="https://www.youtube.com/watch?v=J0q21_40RTQ">
 
 ### [RAMPup](https://rampupproject.eu/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 3. [Project results](https://rampupproject.eu/media/1076/modular-robot-cell-for-multiple-preassembly-processes-in-the-production-of-roof-windows-and-roller-shutters_draft.pdf)
+
 
 <!-- ### 4. Provide a basis for further data collection through surveys or experiments
 
